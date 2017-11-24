@@ -1,0 +1,13 @@
+1. Teha web application servlettidega hello world. 
+2. Teha hello world Maven’iga. Kus servlet poordub klassi eksemplaari poole, mis valjastab mingeid voltsandmeid, mida joonnistab veebileht. Kaasata JUnit nagu Dependency ja testida ja siis teha test labi Maven’i
+*****vaheetapp
+3. Struts2 servleti asemel peab olema Struts2 action(kontroller). See peab olema integreeritud Spring’iga(actionid on tehtud Spring is)
+4. Spring IoC. Lisada Springi, las sustib servletti seda andmeid tagastatava objekti. 
+
+*****vaheetapp
+5. Nuud pohiulesanne. Reaalsete andmete asemel neid saab hardkoodima voi failist lugema. Tabelite jaoks kasutada Datatables Jquery
+
+*******vaheetapp
+6. Lisa suvalist Andmebaasi. Aga selle asemel et kaia sisse labi JDBC, kasuta MyBatis voi Hybernate. 
+
+7. Seadista transaction management Springis. (Markus: MyBatis’e jaoks seal on sama nagu JDBC jaoks)
